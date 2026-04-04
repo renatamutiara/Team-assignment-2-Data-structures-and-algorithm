@@ -19,6 +19,12 @@ Program ini merupakan lanjutan dari Tugas Assignment 1, dimana di program ini si
 - Mengurutkan lagu berdasarkan durasi (Sorting)
 
 ## 📷 Screenshot
+- Sebelum Diurutkan 
+<img width="635" height="339" alt="Sebelum diurutkan" src="https://github.com/user-attachments/assets/b294b1ed-e448-4694-bf97-b2bb71bbc356" />
+
+
+- Setelah Diurutkan
+<img width="698" height="514" alt="Setelah Diurutkan" src="https://github.com/user-attachments/assets/6c0cd070-1c34-4753-b254-c366fc471a36" />
 
 
 
