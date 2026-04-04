@@ -18,7 +18,9 @@ Program ini merupakan lanjutan dari Tugas Assignment 1, dimana di program ini si
 - Mencari lagu (Searching)
 - Mengurutkan lagu berdasarkan durasi (Sorting)
 
-## 🛠️ Teknologi
+## 📷 Screenshot
+
+
 
 
 ## ▶️ Cara Menjalankan
