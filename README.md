@@ -8,7 +8,7 @@
 - 2902733131 - Renata Mutiara Nirwana
 
 ## 📌 Deskripsi
-Program ini merupakan lanjutan dari Tugas Assignment 1, dimana di program ini sistem manajemen playlist musik dikembangkan dengan berfokus pada operasi array dalam struktur data, yaitu bagaimana data lagu dikelola, diubah, dicari, dan ditampilkan dengan efisien.
+Program ini merupakan lanjutan dari Tugas Assignment 1, dimana di program ini sistem manajemen playlist musik dikembangkan dengan berfokus pada operasi array dalam struktur data, yaitu bagaimana data lagu dikelola, diubah, dicari, dan ditampilkan dengan efisien. Selain itu, ditambahkan juga fitur untuk mengurutkan lagu berdasarkan durasi (ascending) menggunakan Bubble Sort.
 
 
 ## ⚙️ Fitur
@@ -16,7 +16,7 @@ Program ini merupakan lanjutan dari Tugas Assignment 1, dimana di program ini si
 - Menambahkan lagu (Insertion)
 - Menghapus lagu (Deletion)
 - Mencari lagu (Searching)
-- Mengurutkan lagu berdasarkan durasi (Sorting)
+- Mengurutkan lagu berdasarkan durasi 
 
 ## 📷 Screenshot
 - Sebelum Diurutkan 
@@ -27,3 +27,6 @@ Program ini merupakan lanjutan dari Tugas Assignment 1, dimana di program ini si
 <img width="698" height="514" alt="Setelah Diurutkan" src="https://github.com/user-attachments/assets/6c0cd070-1c34-4753-b254-c366fc471a36" />
 
 
+
+
+**Kelompok 5 – Data Structures and Algorithm Analysis**
