@@ -27,6 +27,3 @@ Program ini merupakan lanjutan dari Tugas Assignment 1, dimana di program ini si
 <img width="698" height="514" alt="Setelah Diurutkan" src="https://github.com/user-attachments/assets/6c0cd070-1c34-4753-b254-c366fc471a36" />
 
 
-
-
-## ▶️ Cara Menjalankan
