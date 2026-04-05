@@ -38,5 +38,8 @@ Program ini merupakan lanjutan dari Tugas Assignment 1, dimana di program ini si
 - Hasil Menu Mencari Lagu
 <img width="548" height="200" alt="Screenshot 2026-04-05 194018" src="https://github.com/user-attachments/assets/62192996-513a-4493-8de4-cf687e8f3cac" />
 
+- Hasil Menu Keluar
+<img width="378" height="166" alt="Screenshot 2026-04-05 194215" src="https://github.com/user-attachments/assets/f756b646-be9a-43ff-a349-fe1d45b649fc" />
 
+  
 **Kelompok 5 – Data Structures and Algorithm Analysis**
